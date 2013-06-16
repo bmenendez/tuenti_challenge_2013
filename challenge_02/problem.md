@@ -17,7 +17,7 @@ dictionary. Assume that all the words in the dictionary are correct.
 
 Input:
 
-* The input consists of comments (lines starting with '#'), name of the dictionary file to use, number of words that require suggestions and the list of words that require suggestions. Comments describe and separate each part of the intput:
+The input consists of comments (lines starting with '#'), name of the dictionary file to use, number of words that require suggestions and the list of words that require suggestions. Comments describe and separate each part of the intput:
 
     #Dictionary file
     name of the file containting the dictionary
