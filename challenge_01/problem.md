@@ -15,7 +15,9 @@ and you can sell or buy bitcoins at any moment, as many times as you want.
 
 Input:
 
-    First line contains the number of test cases, T, and T cases follow (each one in a different line). Each test case consists of one integer N (1 ≤ N ≤ 100), indicating your initial budget in euros. In the next line, there is a list of integers indicating the future value of Bitcoin at different times in a fixed period.
+    First line contains the number of test cases, T, and T cases follow (each one in a different line).
+    Each test case consists of one integer N (1 ≤ N ≤ 100), indicating your initial budget in euros.
+    In the next line, there is a list of integers indicating the future value of Bitcoin at different times in a fixed period.
 
 Output:
 
